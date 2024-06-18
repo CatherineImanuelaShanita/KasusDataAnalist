@@ -150,24 +150,99 @@ Buat proyek atau folder kerja baru di VS Code untuk menyimpan semua file terkait
 Siapkan dataset transaksi produk, rating produk, dan informasi produk dalam format yang dapat dibaca oleh Python (misalnya CSV).
 Letakkan file-file data ini dalam folder proyek (misal: Kasus_Data).
 
-![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/08fe6248-5073-40c1-9787-fe547f52b639)
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/84b28add-0b71-4a59-ac55-9c31022fc863)
 
-![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/6b64ce63-20c8-4e14-9b92-f01b8b25ac67)
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/8d567482-37f5-4095-8b9a-8465fb449ba9)
+
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/9e960f80-f9af-49a1-8e3f-72ee754d6c70)
+
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/9d4acad0-b772-4b92-94fe-ca66edf53472)
+
 
 3. Data Integration
    
 Gunakan pandas untuk membaca file CSV ke dalam dataframe.
 
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/08fe6248-5073-40c1-9787-fe547f52b639)
 
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/6b64ce63-20c8-4e14-9b92-f01b8b25ac67)
+
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/994c13c0-e0ce-46bd-a7f3-e91638b007c8)
 
 4. Data Cleaning
    
 Melakukan pembersihan data seperti mengatasi nilai yang hilang atau duplikat, dan pastikan tipe data yang benar. Gabungkan dataframe berdasarkan kunci (seperti ProductID atau CustomerID).
 
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/51e0c3f7-19b3-478b-827c-053a899b5394)
+
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/8582d0d5-dbd6-4eae-9120-81bd3ebb215b)
+
+
 5. Exploratory Data Analysis (EDA)
 
 Melakukan EDA untuk memahami data. Buat visualisasi seperti histogram, scatter plot, dan box plot untuk menganalisis distribusi, korelasi, dan outlier.
 
+Pertanyaan 1A:
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/bae38b1f-346c-4a46-80b9-e6f1141c306f)
+
+Pertanyaan 1B:
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/aa0e4362-959c-472c-947e-6d096fa75e8a)
+
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/e92a0727-e6b5-4ada-883e-7c7b5710605d)
+
+Pertanyaan 1C:
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/c8c69d46-c068-4224-938d-71f7218948de)
+
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/99ec5658-b2e4-4335-988a-6abe3c3ce993)
+
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/e7335c72-724c-4136-afc3-6ddf6e0b6dc8)
+
+Pertanyaan 1D:
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/a0a06590-d326-41b8-9ea2-51afb50d2afe)
+
+Pertanyaan 1E:
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/37a541f4-df83-4d20-a267-541f3df0755b)
+
+Pertanyaan 2A (Analisis Per Produk)
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/21fb40ad-02cb-4e54-92e4-c99108809621)
+
+Pertanyaan 2B (Analisis Per Kategori)
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/1cdb9341-b1c8-44a1-a45a-18c3e7ecf0fa)
+
+Pertanyaan 2C (Analisis Prediksi Penjualan)
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/d4065667-115a-488b-9cc6-b44e028d64cb)
+
+![image](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/8c1c7e57-5700-44a8-a624-0e6c70f353e0)
+
+
 7. Analisis Statistik dan Regresi
 
 Lakukan analisis statistik deskriptif dan regresi untuk memeriksa hubungan antara rating produk dan total penjualan produk.
+
+Visualisasi Analisis Data
+
+Soal 1A
+![soal 1a](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/e6dc224d-8f7a-4a9a-bf38-13b1da08d6d7)
+
+Soal 1B
+![soal 1b](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/1cda30b2-614c-4ce8-9ff5-a81794cc7dda)
+
+Soal 1C
+![soal 1c](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/e1b08c34-a09a-423b-b229-20184205a07f)
+
+Soal 1D
+![soal 1d](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/00e719b9-9f12-4519-803b-e97751d8145c)
+
+Soal 1E
+![soal 1e](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/da5f5cca-9215-43cd-90ce-f71a5720dd3e)
+
+Soal 2A
+![soal 2a](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/6cea304d-4b6c-484b-a56d-9363917722e4)
+
+![soal 2a boxplot](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/913de56a-0a23-4f19-9880-23bc13889893)
+
+Soal 2B
+![soal 2b](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/d1b95dc5-7a05-4902-af40-a61884cb0cfd)
+
+Soal 2C
+![soal 2c](https://github.com/CatherineImanuelaShanita/KasusDataAnalist/assets/167211624/1c84d298-2bde-4700-a5b4-a8b2277f0a22)
